@@ -198,7 +198,3 @@ if isinstance(animal, Vaca):
 Também é possível remover os `print()` envolvendo `animal.apresentar()`, já que esse método já realiza a impressão da mensagem.
 
 ---
-
-### 👨‍💻 Autor
-
-Exercício desenvolvido para estudos de **Programação Orientada a Objetos (POO)** utilizando Python.
